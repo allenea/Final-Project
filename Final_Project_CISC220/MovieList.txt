@@ -1,0 +1,1400 @@
+Action & Adventure|1|97%|2015|Mad Max: Fury Road 
+Action & Adventure|2|99%|1927|Metropolis 
+Action & Adventure|3|98%|1933|King Kong 
+Action & Adventure|4|100%|1938|The Adventures of Robin Hood 
+Action & Adventure|5|100%|1948|The Treasure of the Sierra Madre 
+Action & Adventure|6|98%|2009|Up 
+Action & Adventure|7|100%|1956|Seven Samurai 
+Action & Adventure|8|98%|2016|Zootopia 
+Action & Adventure|9|98%|1935|The 39 Steps 
+Action & Adventure|10|94%|2008|The Dark Knight 
+Action & Adventure|11|98%|2009|The Hurt Locker 
+Action & Adventure|12|92%|2015|Star Wars: Episode VII - The Force Awakens 
+Action & Adventure|13|93%|2012|Skyfall 
+Action & Adventure|14|95%|2009|Star Trek 
+Action & Adventure|15|96%|2011|Harry Potter and the Deathly Hallows - Part 2 
+Action & Adventure|16|97%|1962|Lawrence of Arabia 
+Action & Adventure|17|97%|1975|Jaws 
+Action & Adventure|18|96%|2008|WALL-E 
+Action & Adventure|19|96%|2014|The LEGO Movie 
+Action & Adventure|20|100%|1956|The Searchers 
+Action & Adventure|21|93%|1977|Star Wars: Episode IV - A New Hope 
+Action & Adventure|22|100%|1984|The Terminator 
+Action & Adventure|23|97%|1979|Apocalypse Now 
+Action & Adventure|24|94%|2016|The Jungle Book 
+Action & Adventure|25|98%|1969|The Wild Bunch 
+Action & Adventure|26|98%|1971|The French Connection 
+Action & Adventure|27|94%|2008|Iron Man 
+Action & Adventure|28|98%|1986|Aliens 
+Action & Adventure|29|98%|1968|Once Upon a Time in the West 
+Action & Adventure|30|98%|1957|Throne of Blood 
+Action & Adventure|31|92%|2012|Marvel's The Avengers 
+Action & Adventure|32|96%|2010|True Grit 
+Action & Adventure|33|98%|1974|Badlands 
+Action & Adventure|34|93%|2015|Mission: Impossible Rogue Nation 
+Action & Adventure|35|98%|2016|Hunt for the Wilderpeople 
+Action & Adventure|36|98%|1972|Aguirre, the Wrath of God 
+Action & Adventure|37|97%|2016|Kubo and the Two Strings 
+Action & Adventure|38|95%|2006|Casino Royale 
+Action & Adventure|39|94%|1980|Star Wars: Episode V - The Empire Strikes Back 
+Action & Adventure|40|96%|1960|Spartacus 
+Action & Adventure|41|90%|2016|Captain America: Civil War 
+Action & Adventure|42|96%|2002|The Lord of the Rings: The Two Towers 
+Action & Adventure|43|97%|2000|Chicken Run 
+Action & Adventure|44|97%|1984|Ghostbusters 
+Action & Adventure|45|94%|2015|Sicario 
+Action & Adventure|46|98%|2016|Moana 
+Action & Adventure|47|95%|2003|The Lord of the Rings: The Return of the King 
+Action & Adventure|48|91%|2014|Guardians of the Galaxy 
+Action & Adventure|49|96%|1985|Ran 
+Action & Adventure|50|96%|1985|Back to the Future 
+Action & Adventure|51|91%|2014|X-Men: Days of Future Past 
+Action & Adventure|52|97%|1987|The Princess Bride 
+Action & Adventure|53|98%|2016|Embrace Of The Serpent 
+Action & Adventure|54|94%|2013|All Is Lost 
+Action & Adventure|55|98%|1964|A Fistful of Dollars 
+Action & Adventure|56|93%|2012|Looper 
+Action & Adventure|57|97%|1988|Who Framed Roger Rabbit 
+Action & Adventure|58|93%|2007|No Country for Old Men 
+Action & Adventure|59|98%|1982|Mad Max 2: The Road Warrior 
+Action & Adventure|60|93%|1956|Gojira 
+Action & Adventure|61|93%|1993|Jurassic Park 
+Action & Adventure|62|97%|1995|Babe 
+Action & Adventure|63|98%|1983|The Right Stuff 
+Action & Adventure|64|96%|1964|Goldfinger 
+Action & Adventure|65|97%|2001|Crouching Tiger, Hidden Dragon 
+Action & Adventure|66|94%|1957|Paths of Glory 
+Action & Adventure|67|98%|1981|Diva 
+Action & Adventure|68|93%|2007|The Bourne Ultimatum 
+Action & Adventure|69|94%|1957|The Bridge on the River Kwai 
+Action & Adventure|70|96%|1977|Close Encounters of the Third Kind 
+Action & Adventure|71|95%|1987|Full Metal Jacket 
+Action & Adventure|72|96%|2002|Catch Me If You Can 
+Action & Adventure|73|96%|1962|Dr. No 
+Action & Adventure|74|90%|2014|Dawn Of The Planet Of The Apes 
+Action & Adventure|75|96%|1964|From Russia With Love 
+Action & Adventure|76|96%|1993|The Fugitive 
+Action & Adventure|77|95%|1995|Apollo 13 
+Action & Adventure|78|94%|2011|Mission: Impossible Ghost Protocol 
+Action & Adventure|79|98%|1992|One False Move 
+Action & Adventure|80|96%|1968|Yellow Submarine 
+Action & Adventure|81|95%|2005|Wallace & Gromit: The Curse of the Were-Rabbit 
+Action & Adventure|82|98%|1995|The Secret of Roan Inish 
+Action & Adventure|83|92%|1994|The Lion King 
+Action & Adventure|84|95%|2004|Hero 
+Action & Adventure|85|90%|2016|Doctor Strange 
+Action & Adventure|86|93%|2004|Spider-Man 2 
+Action & Adventure|87|99%|2004|The Twilight Samurai 
+Action & Adventure|88|96%|2015|71 
+Action & Adventure|89|94%|1981|Raiders of the Lost Ark 
+Action & Adventure|90|94%|2010|The Town 
+Action & Adventure|91|91%|2006|The Departed 
+Action & Adventure|92|93%|1978|Superman 
+Action & Adventure|93|94%|1999|Three Kings 
+Action & Adventure|94|96%|1999|The Straight Story 
+Action & Adventure|95|95%|1993|In the Line of Fire 
+Action & Adventure|96|92%|1998|Saving Private Ryan 
+Action & Adventure|97|95%|1973|Enter the Dragon 
+Action & Adventure|98|96%|1988|Midnight Run 
+Action & Adventure|99|92%|1957|The Seventh Seal 
+Action & Adventure|100|98%|2007|Ten Canoes 
+Animation|1|98%|2015|Inside Out 
+Animation|2|98%|1937|Snow White and the Seven Dwarfs 
+Animation|3|99%|2010|Toy Story 3 
+Animation|4|100%|1999|Toy Story 2 
+Animation|5|98%|2009|Up 
+Animation|6|98%|2016|Zootopia 
+Animation|7|99%|2003|Finding Nemo 
+Animation|8|100%|1940|Pinocchio 
+Animation|9|100%|1995|Toy Story 
+Animation|10|96%|2008|WALL-E 
+Animation|11|96%|2014|The LEGO Movie 
+Animation|12|99%|2015|Shaun the Sheep Movie 
+Animation|13|94%|2016|Finding Dory 
+Animation|14|96%|2007|Ratatouille 
+Animation|15|98%|2010|How to Train Your Dragon 
+Animation|16|97%|2004|The Incredibles 
+Animation|17|97%|2016|Kubo and the Two Strings 
+Animation|18|97%|2000|Chicken Run 
+Animation|19|98%|1961|101 Dalmatians 
+Animation|20|96%|1940|Fantasia 
+Animation|21|97%|2001|Spirited Away 
+Animation|22|98%|2016|Moana 
+Animation|23|96%|2001|Monsters, Inc. 
+Animation|24|96%|1999|The Iron Giant 
+Animation|25|97%|1988|Who Framed Roger Rabbit 
+Animation|26|93%|1991|Beauty and the Beast 
+Animation|27|99%|2014|Song Of The Sea 
+Animation|28|100%|2016|Only Yesterday 
+Animation|29|100%|2016|Tower 
+Animation|30|96%|2008|Waltz with Bashir 
+Animation|31|96%|1998|Antz 
+Animation|32|96%|1968|Yellow Submarine 
+Animation|33|96%|2007|Persepolis 
+Animation|34|95%|2005|Wallace & Gromit: The Curse of the Were-Rabbit 
+Animation|35|94%|1993|The Nightmare Before Christmas 
+Animation|36|92%|1994|The Lion King 
+Animation|37|92%|2015|Anomalisa 
+Animation|38|95%|2012|The Secret World of Arrietty 
+Animation|39|97%|2014|Ernest & Célestine 
+Animation|40|98%|2016|April and the Extraordinary World 
+Animation|41|92%|2009|Fantastic Mr. Fox 
+Animation|42|94%|1992|Aladdin 
+Animation|43|92%|2014|How to Train Your Dragon 2 
+Animation|44|90%|2009|Coraline 
+Animation|45|94%|2003|The Triplets of Belleville 
+Animation|46|89%|2013|Frozen 
+Animation|47|96%|2015|Boy and the World 
+Animation|48|93%|1996|James and the Giant Peach 
+Animation|49|92%|1989|The Little Mermaid 
+Animation|50|92%|1998|A Bug's Life 
+Animation|51|92%|2009|Ponyo 
+Animation|52|92%|1999|Princess Mononoke 
+Animation|53|89%|2014|Big Hero 6 
+Animation|54|89%|1942|Bambi 
+Animation|55|92%|2011|Arthur Christmas 
+Animation|56|95%|2009|Mary and Max 
+Animation|57|93%|1988|My Neighbor Totoro 
+Animation|58|95%|2016|Miss Hokusai 
+Animation|59|93%|2016|The Little Prince 
+Animation|60|89%|2008|Bolt 
+Animation|61|89%|2010|Tangled 
+Animation|62|88%|2007|The Simpsons Movie 
+Animation|63|92%|2015|When Marnie Was There 
+Animation|64|88%|2004|Shrek 2 
+Animation|65|88%|2001|Shrek 
+Animation|66|88%|2014|The Wind Rises 
+Animation|67|87%|2012|Frankenweenie 
+Animation|68|87%|2008|Kung Fu Panda 
+Animation|69|86%|2016|Pete's Dragon 
+Animation|70|90%|2011|Winnie the Pooh 
+Animation|71|87%|2015|The Peanuts Movie 
+Animation|72|87%|2011|Rango 
+Animation|73|90%|2010|The Illusionist 
+Animation|74|92%|2001|Millennium Actress 
+Animation|75|87%|2012|ParaNorman 
+Animation|76|91%|2010|The Secret of Kells 
+Animation|77|87%|2016|Kung Fu Panda 3 
+Animation|78|88%|1999|Tarzan 
+Animation|79|87%|2005|Howl's Moving Castle 
+Animation|80|86%|2012|Wreck-it Ralph 
+Animation|81|90%|2010|My Dog Tulip 
+Animation|82|87%|2009|Cloudy With a Chance of Meatballs 
+Animation|83|86%|2012|The Pirates! Band of Misfits 
+Animation|84|89%|2016|The Boy And The Beast 
+Animation|85|87%|1988|Akira 
+Animation|86|89%|2003|Tokyo Godfathers 
+Animation|87|86%|1998|Mulan 
+Animation|88|86%|2002|Lilo & Stitch 
+Animation|89|84%|2009|The Princess and the Frog 
+Animation|90|83%|2016|Sausage Party 
+Animation|91|85%|2000|The Emperor's New Groove 
+Animation|92|83%|2005|Tim Burton's Corpse Bride 
+Animation|93|87%|2002|Metropolis 
+Animation|94|85%|1997|Anastasia 
+Animation|95|84%|2011|Puss in Boots 
+Animation|96|86%|2012|Chico & Rita 
+Animation|97|86%|2016|Phantom Boy 
+Animation|98|81%|2010|Despicable Me 
+Animation|99|84%|2006|Paprika 
+Animation|100|78%|2012|Brave 
+Art House & International|1|100%|1920|Das Cabinet des Dr. Caligari. 
+Art House & International|2|99%|1927|Metropolis 
+Art House & International|3|97%|1922|Nosferatu, a Symphony of Horror  
+Art House & International|4|97%|1938|La Grande illusion 
+Art House & International|5|99%|1967|The Battle of Algiers 
+Art House & International|6|100%|1951|Rashômon 
+Art House & International|7|100%|1931|M 
+Art House & International|8|100%|1959|The 400 Blows 
+Art House & International|9|100%|1956|Seven Samurai 
+Art House & International|10|97%|1969|Army of Shadows 
+Art House & International|11|100%|1970|The Conformist 
+Art House & International|12|100%|1946|Open City 
+Art House & International|13|100%|1953|Tokyo Story 
+Art House & International|14|100%|1953|The Wages of Fear 
+Art House & International|15|100%|1963|The Leopard 
+Art House & International|16|100%|1925|Battleship Potemkin 
+Art House & International|17|97%|1960|La Dolce Vita 
+Art House & International|18|98%|1950|The Rules of the Game 
+Art House & International|19|98%|2008|Let the Right One In 
+Art House & International|20|100%|1973|Playtime 
+Art House & International|21|98%|1972|The Discreet Charm Of The Bourgeoisie  
+Art House & International|22|98%|1957|Throne of Blood 
+Art House & International|23|99%|2014|Gloria 
+Art House & International|24|98%|1972|Aguirre, the Wrath of God 
+Art House & International|25|98%|1963|8 1/2 
+Art House & International|26|98%|1962|Eyes Without a Face 
+Art House & International|27|99%|2011|A Separation 
+Art House & International|28|97%|2016|Sing Street 
+Art House & International|29|100%|1994|Three Colors: Red  
+Art House & International|30|100%|2014|The Tale of the Princess Kaguya 
+Art House & International|31|99%|2015|Timbuktu 
+Art House & International|32|95%|1970|Le Cercle Rouge 
+Art House & International|33|100%|1993|Three Colors: Blue 
+Art House & International|34|96%|1985|Ran 
+Art House & International|35|98%|2016|Embrace Of The Serpent 
+Art House & International|36|98%|1964|A Fistful of Dollars 
+Art House & International|37|100%|2015|GETT: The Trial of Viviane Amsalem 
+Art House & International|38|95%|2015|Amy 
+Art House & International|39|98%|2015|Phoenix 
+Art House & International|40|93%|1956|Gojira 
+Art House & International|41|97%|2001|Crouching Tiger, Hidden Dragon 
+Art House & International|42|99%|2012|Jiro Dreams of Sushi 
+Art House & International|43|100%|2008|Aruitemo Aruitemo 
+Art House & International|44|98%|1987|Wings of Desire 
+Art House & International|45|98%|2011|Project Nim 
+Art House & International|46|98%|1981|Diva 
+Art House & International|47|100%|2000|Le goût des autres 
+Art House & International|48|98%|1999|Todo sobre mi madre 
+Art House & International|49|100%|2010|Waste Land 
+Art House & International|50|98%|1988|Spoorloos 
+Art House & International|51|98%|2007|The Band's Visit 
+Art House & International|52|96%|1976|Solaris 
+Art House & International|53|100%|2016|Only Yesterday 
+Art House & International|54|98%|1989|Sex, Lies, and Videotape 
+Art House & International|55|100%|2009|Afghan Star 
+Art House & International|56|100%|2011|Poetry 
+Art House & International|57|100%|2016|Things to Come 
+Art House & International|58|96%|2008|Waltz with Bashir 
+Art House & International|59|96%|1964|Mafioso 
+Art House & International|60|97%|2010|A Prophet 
+Art House & International|61|99%|2015|About Elly 
+Art House & International|62|100%|2010|Last Train Home 
+Art House & International|63|93%|1958|Elevator to the Gallows 
+Art House & International|64|98%|2012|This Is Not a Film 
+Art House & International|65|97%|2012|Monsieur Lazhar 
+Art House & International|66|100%|2011|Nostalgia for the Light 
+Art House & International|67|99%|2003|Bus 174 
+Art House & International|68|96%|1964|Band of Outsiders 
+Art House & International|69|97%|2004|Maria Full of Grace 
+Art House & International|70|99%|2004|Moolaadé 
+Art House & International|71|95%|2004|Hero 
+Art House & International|72|99%|2002|Rivers and Tides: Andy Goldsworthy Working With Time 
+Art House & International|73|99%|2004|The Twilight Samurai 
+Art House & International|74|95%|2008|The Class 
+Art House & International|75|98%|2002|The Man Without a Past 
+Art House & International|76|93%|2012|Amour 
+Art House & International|77|96%|2015|The Look of Silence 
+Art House & International|78|96%|2012|The Kid with a Bike 
+Art House & International|79|94%|1956|Rififi 
+Art House & International|80|98%|2016|The Wailing 
+Art House & International|81|95%|2012|The Secret World of Arrietty 
+Art House & International|82|98%|2012|Oslo, August 31st 
+Art House & International|83|97%|2014|Ernest & Célestine 
+Art House & International|84|94%|2009|An Education 
+Art House & International|85|97%|2002|Read My Lips 
+Art House & International|86|96%|2011|13 Assassins 
+Art House & International|87|95%|2010|Animal Kingdom 
+Art House & International|88|98%|2014|A Summer's Tale 
+Art House & International|89|97%|2016|Cemetery of Splendor 
+Art House & International|90|95%|2003|The Station Agent 
+Art House & International|91|94%|1964|Contempt 
+Art House & International|92|98%|2006|Hoh Xil: Mountain Patrol 
+Art House & International|93|94%|2009|In the Loop 
+Art House & International|94|98%|2012|The Loved Ones 
+Art House & International|95|94%|2003|American Splendor 
+Art House & International|96|98%|2004|Since Otar Left 
+Art House & International|97|98%|2016|Aferim! 
+Art House & International|98|98%|2004|The Umbrellas of Cherbourg 
+Art House & International|99|97%|2016|The Dark Horse 
+Art House & International|100|97%|2007|Killer of Sheep 
+Classics|1|99%|1939|The Wizard of Oz 
+Classics|2|100%|1949|The Third Man 
+Classics|3|100%|1941|Citizen Kane 
+Classics|4|100%|1920|Das Cabinet des Dr. Caligari. 
+Classics|5|100%|1950|All About Eve 
+Classics|6|100%|1936|Modern Times 
+Classics|7|99%|1927|Metropolis 
+Classics|8|98%|1934|It Happened One Night 
+Classics|9|100%|1952|Singin' in the Rain 
+Classics|10|97%|1942|Casablanca 
+Classics|11|98%|1964|A Hard Day's Night 
+Classics|12|98%|1937|Snow White and the Seven Dwarfs 
+Classics|13|97%|1922|Nosferatu, a Symphony of Horror  
+Classics|14|100%|1944|Laura 
+Classics|15|97%|1938|La Grande illusion 
+Classics|16|100%|1959|North by Northwest 
+Classics|17|100%|1965|Repulsion 
+Classics|18|98%|1933|King Kong 
+Classics|19|100%|1938|The Adventures of Robin Hood 
+Classics|20|100%|1954|Rear Window 
+Classics|21|100%|1951|Rashômon 
+Classics|22|96%|1960|Psycho 
+Classics|23|98%|1950|Sunset Boulevard 
+Classics|24|100%|1935|The Bride of Frankenstein 
+Classics|25|100%|1940|The Philadelphia Story 
+Classics|26|100%|1948|The Treasure of the Sierra Madre 
+Classics|27|100%|1959|The 400 Blows 
+Classics|28|100%|1956|Seven Samurai 
+Classics|29|98%|1951|A Streetcar Named Desire 
+Classics|30|100%|1957|12 Angry Men 
+Classics|31|99%|1964|Dr. Strangelove Or How I Learned to Stop Worrying and Love the Bomb 
+Classics|32|94%|1939|Gone With the Wind 
+Classics|33|100%|1940|Rebecca 
+Classics|34|100%|1931|Frankenstein 
+Classics|35|99%|1968|Rosemary's Baby 
+Classics|36|97%|1958|Vertigo 
+Classics|37|96%|1958|Touch of Evil 
+Classics|38|98%|1935|The 39 Steps 
+Classics|39|100%|1940|The Grapes of Wrath 
+Classics|40|100%|1971|The Last Picture Show 
+Classics|41|98%|1953|Roman Holiday 
+Classics|42|98%|1954|On the Waterfront 
+Classics|43|100%|1959|Anatomy of a Murder 
+Classics|44|97%|1962|Lawrence of Arabia 
+Classics|45|100%|1963|The Leopard 
+Classics|46|100%|1925|Battleship Potemkin 
+Classics|47|98%|1974|Chinatown 
+Classics|48|100%|1967|Cool Hand Luke 
+Classics|49|98%|1930|All Quiet on the Western Front 
+Classics|50|98%|1938|The Lady Vanishes 
+Classics|51|95%|1951|An American in Paris 
+Classics|52|100%|1956|The Searchers 
+Classics|53|100%|1925|The Gold Rush 
+Classics|54|94%|1946|It's a Wonderful Life 
+Classics|55|98%|1957|Sweet Smell of Success 
+Classics|56|96%|1948|The Red Shoes 
+Classics|57|100%|1964|Mary Poppins 
+Classics|58|98%|1942|To Be or Not to Be 
+Classics|59|96%|1946|The Big Sleep 
+Classics|60|98%|1931|City Lights 
+Classics|61|98%|1971|The French Connection 
+Classics|62|98%|1956|Invasion of the Body Snatchers 
+Classics|63|96%|1947|Miracle on 34th Street 
+Classics|64|94%|1932|Freaks 
+Classics|65|98%|1957|Throne of Blood 
+Classics|66|98%|1953|Gentlemen Prefer Blondes 
+Classics|67|97%|1975|Barry Lyndon 
+Classics|68|98%|1974|Badlands 
+Classics|69|98%|1962|The Manchurian Candidate 
+Classics|70|98%|1973|Mean Streets 
+Classics|71|96%|1960|Spartacus 
+Classics|72|96%|1946|The Best Years of Our Lives 
+Classics|73|96%|2002|The Lord of the Rings: The Two Towers 
+Classics|74|98%|1956|Forbidden Planet 
+Classics|75|98%|1961|101 Dalmatians 
+Classics|76|96%|1940|Fantasia 
+Classics|77|94%|1933|Duck Soup 
+Classics|78|94%|1951|The Day the Earth Stood Still 
+Classics|79|95%|2003|The Lord of the Rings: The Return of the King 
+Classics|80|96%|1959|Some Like It Hot 
+Classics|81|96%|1985|Ran 
+Classics|82|94%|1968|2001: A Space Odyssey 
+Classics|83|95%|1938|Bringing Up Baby 
+Classics|84|96%|1960|Peeping Tom 
+Classics|85|98%|1964|A Fistful of Dollars 
+Classics|86|96%|1955|Rebel Without a Cause 
+Classics|87|96%|1963|The Birds 
+Classics|88|98%|1927|Sunrise: A Song of Two Humans 
+Classics|89|96%|1964|Goldfinger 
+Classics|90|94%|1957|Paths of Glory 
+Classics|91|94%|1957|The Bridge on the River Kwai 
+Classics|92|96%|1968|Night of the Living Dead 
+Classics|93|95%|1975|One Flew Over the Cuckoo's Nest 
+Classics|94|96%|1973|Don't Look Now 
+Classics|95|96%|1962|Dr. No 
+Classics|96|96%|1964|From Russia With Love 
+Classics|97|93%|1960|The Apartment 
+Classics|98|95%|1970|Patton 
+Classics|99|95%|2004|Hero 
+Classics|100|95%|1955|To Catch a Thief 
+Comedy|1|100%|1950|All About Eve 
+Comedy|2|100%|1936|Modern Times 
+Comedy|3|98%|1934|It Happened One Night 
+Comedy|4|100%|1952|Singin' in the Rain 
+Comedy|5|98%|1964|A Hard Day's Night 
+Comedy|6|99%|2010|Toy Story 3 
+Comedy|7|100%|1999|Toy Story 2 
+Comedy|8|100%|1940|The Philadelphia Story 
+Comedy|9|98%|2009|Up 
+Comedy|10|98%|2016|Zootopia 
+Comedy|11|99%|1964|Dr. Strangelove Or How I Learned to Stop Worrying and Love the Bomb 
+Comedy|12|99%|2003|Finding Nemo 
+Comedy|13|98%|1953|Roman Holiday 
+Comedy|14|100%|1995|Toy Story 
+Comedy|15|97%|2011|The Artist 
+Comedy|16|98%|1977|Annie Hall 
+Comedy|17|100%|1967|Cool Hand Luke 
+Comedy|18|97%|1975|Monty Python and the Holy Grail 
+Comedy|19|97%|1960|La Dolce Vita 
+Comedy|20|98%|1950|The Rules of the Game 
+Comedy|21|96%|2014|The LEGO Movie 
+Comedy|22|100%|1925|The Gold Rush 
+Comedy|23|98%|2013|Before Midnight 
+Comedy|24|94%|1946|It's a Wonderful Life 
+Comedy|25|100%|1964|Mary Poppins 
+Comedy|26|99%|2015|Shaun the Sheep Movie 
+Comedy|27|98%|1942|To Be or Not to Be 
+Comedy|28|98%|1931|City Lights 
+Comedy|29|100%|1973|Playtime 
+Comedy|30|98%|1972|The Discreet Charm Of The Bourgeoisie 
+Comedy|31|96%|2007|Ratatouille 
+Comedy|32|98%|1953|Gentlemen Prefer Blondes 
+Comedy|33|98%|2016|Hunt for the Wilderpeople 
+Comedy|34|97%|2004|The Incredibles 
+Comedy|35|98%|1963|8 1/2 
+Comedy|36|98%|1979|Manhattan 
+Comedy|37|97%|2000|Chicken Run 
+Comedy|38|97%|1988|Big 
+Comedy|39|98%|1961|101 Dalmatians 
+Comedy|40|97%|1980|Airplane! 
+Comedy|41|97%|1984|Ghostbusters 
+Comedy|42|98%|2015|Paddington 
+Comedy|43|94%|1933|Duck Soup 
+Comedy|44|99%|2016|Don't Think Twice 
+Comedy|45|100%|1995|Before Sunrise 
+Comedy|46|92%|2014|The Grand Budapest Hotel 
+Comedy|47|94%|2015|Spy 
+Comedy|48|96%|1959|Some Like It Hot 
+Comedy|49|96%|1985|Back to the Future 
+Comedy|50|95%|1938|Bringing Up Baby 
+Comedy|51|97%|1987|The Princess Bride 
+Comedy|52|94%|2012|Moonrise Kingdom 
+Comedy|53|96%|2004|Sideways 
+Comedy|54|96%|2001|Monsters, Inc. 
+Comedy|55|96%|2013|Enough Said 
+Comedy|56|95%|1984|Amadeus 
+Comedy|57|97%|1988|Bull Durham 
+Comedy|58|96%|2011|The Muppets 
+Comedy|59|98%|1992|The Player 
+Comedy|60|97%|1988|Who Framed Roger Rabbit 
+Comedy|61|97%|2015|Tangerine 
+Comedy|62|98%|1995|Sense and Sensibility 
+Comedy|63|96%|2015|What We Do In The Shadows 
+Comedy|64|98%|1985|Brazil 
+Comedy|65|100%|2000|Le goût des autres 
+Comedy|66|98%|1999|Todo sobre mi madre 
+Comedy|67|98%|1984|Repo Man 
+Comedy|68|95%|1975|One Flew Over the Cuckoo's Nest 
+Comedy|69|98%|2007|The Band's Visit 
+Comedy|70|95%|2003|Lost In Translation 
+Comedy|71|94%|1998|The Truman Show 
+Comedy|72|97%|2014|We Are the Best! 
+Comedy|73|96%|1979|Monty Python's Life of Brian 
+Comedy|74|98%|1987|Broadcast News 
+Comedy|75|93%|1960|The Apartment 
+Comedy|76|96%|1964|Mafioso 
+Comedy|77|98%|1989|Say Anything... 
+Comedy|78|99%|2011|Le Havre 
+Comedy|79|96%|1993|Groundhog Day 
+Comedy|80|96%|1998|Antz 
+Comedy|81|98%|1988|Hairspray 
+Comedy|82|96%|1968|Yellow Submarine 
+Comedy|83|94%|2007|Juno 
+Comedy|84|95%|2005|Wallace & Gromit: The Curse of the Were-Rabbit 
+Comedy|85|97%|2012|Monsieur Lazhar 
+Comedy|86|96%|1964|My Fair Lady 
+Comedy|87|92%|2015|Anomalisa 
+Comedy|88|96%|1983|Risky Business 
+Comedy|89|92%|2012|Silver Linings Playbook 
+Comedy|90|98%|2002|The Man Without a Past 
+Comedy|91|96%|1979|Being There 
+Comedy|92|95%|1984|This Is Spinal Tap 
+Comedy|93|98%|2014|Elaine Stritch: Shoot Me 
+Comedy|94|95%|2015|Wild Tales 
+Comedy|95|94%|1999|Three Kings 
+Comedy|96|93%|2012|The Sessions 
+Comedy|97|96%|1994|Bullets Over Broadway 
+Comedy|98|92%|1998|Shakespeare in Love 
+Comedy|99|95%|2004|Before Sunset 
+Comedy|100|93%|2004|Eternal Sunshine Of The Spotless Mind 
+Documentary|1|100%|2008|Man on Wire 
+Documentary|2|97%|2014|Life Itself 
+Documentary|3|99%|2013|20 Feet From Stardom 
+Documentary|4|98%|1978|The Last Waltz 
+Documentary|5|100%|2007|Taxi to the Dark Side 
+Documentary|6|98%|2005|Murderball 
+Documentary|7|98%|2013|Blackfish 
+Documentary|8|98%|2014|Jodorowsky's Dune 
+Documentary|9|100%|2006|Deliver Us from Evil 
+Documentary|10|95%|2015|Amy 
+Documentary|11|98%|2009|Anvil! The Story of Anvil 
+Documentary|12|98%|2010|Inside Job 
+Documentary|13|99%|2012|Jiro Dreams of Sushi 
+Documentary|14|100%|2015|Seymour: An Introduction 
+Documentary|15|100%|2013|The Square 
+Documentary|16|99%|2014|The Missing Picture 
+Documentary|17|98%|2011|Project Nim 
+Documentary|18|98%|2003|The Fog of War: Eleven Lessons from the Life of Robert S. McNamara 
+Documentary|19|98%|2002|Spellbound 
+Documentary|20|100%|2010|Waste Land 
+Documentary|21|100%|1999|Mr. Death: The Rise and Fall of Fred A. Leuchter, Jr. 
+Documentary|22|100%|2016|Tower 
+Documentary|23|100%|2016|Cameraperson 
+Documentary|24|100%|2015|Ingrid Bergman in Her Own Words 
+Documentary|25|100%|2009|Afghan Star 
+Documentary|26|98%|1994|Hoop Dreams 
+Documentary|27|96%|2016|Weiner 
+Documentary|28|99%|2011|The Interrupters 
+Documentary|29|96%|2008|Waltz with Bashir 
+Documentary|30|96%|2014|Citizenfour 
+Documentary|31|99%|2012|How to Survive a Plague 
+Documentary|32|100%|2013|Sound City 
+Documentary|33|100%|2010|Last Train Home 
+Documentary|34|97%|2003|Capturing the Friedmans 
+Documentary|35|96%|2013|The Act Of Killing 
+Documentary|36|99%|2012|The Invisible War 
+Documentary|37|98%|2015|Iris 
+Documentary|38|98%|2012|This Is Not a Film 
+Documentary|39|98%|2015|Kurt Cobain: Montage Of Heck 
+Documentary|40|100%|2011|Nostalgia for the Light 
+Documentary|41|100%|2011|Everyday Sunshine: The Story of Fishbone 
+Documentary|42|99%|2003|Bus 174 
+Documentary|43|100%|2011|We Were Here 
+Documentary|44|97%|2005|Enron: The Smartest Guys in the Room 
+Documentary|45|99%|2002|Rivers and Tides: Andy Goldsworthy Working With Time 
+Documentary|46|99%|2011|Bill Cunningham New York 
+Documentary|47|98%|1996|When We Were Kings 
+Documentary|48|96%|2002|Bowling for Columbine 
+Documentary|49|96%|2015|The Look of Silence 
+Documentary|50|98%|2014|The Overnighters 
+Documentary|51|97%|2015|Red Army 
+Documentary|52|98%|2014|Elaine Stritch: Shoot Me 
+Documentary|53|97%|2015|Listen To Me Marlon 
+Documentary|54|98%|2013|56 Up 
+Documentary|55|94%|2005|March of the Penguins 
+Documentary|56|97%|2007|The King of Kong: A Fistful of Quarters 
+Documentary|57|96%|2012|West of Memphis 
+Documentary|58|98%|2006|The War Tapes 
+Documentary|59|96%|2011|Cave of Forgotten Dreams 
+Documentary|60|96%|2003|Winged Migration 
+Documentary|61|97%|2015|Heart of a Dog 
+Documentary|62|97%|2012|Ai Weiwei: Never Sorry 
+Documentary|63|98%|2012|Beware Of Mr. Baker 
+Documentary|64|98%|2012|Mea Maxima Culpa: Silence In The House Of God 
+Documentary|65|98%|2007|The Devil Came on Horseback 
+Documentary|66|98%|2010|Marwencol 
+Documentary|67|97%|2016|Dark Horse 
+Documentary|68|98%|2006|Blindsight 
+Documentary|69|98%|2012|The Island President 
+Documentary|70|96%|2016|De Palma 
+Documentary|71|96%|2012|Undefeated 
+Documentary|72|98%|2015|Finders Keepers 
+Documentary|73|98%|2007|For the Bible Tells Me So 
+Documentary|74|98%|2013|Call Me Kuchu 
+Documentary|75|98%|2016|Almost Holy 
+Documentary|76|96%|2009|Food, Inc. 
+Documentary|77|98%|2013|Let The Fire Burn 
+Documentary|78|96%|2015|Jafar Panahi's Taxi 
+Documentary|79|96%|2010|Restrepo 
+Documentary|80|98%|2007|Surfwise 
+Documentary|81|98%|2011|Born To Be Wild 
+Documentary|82|97%|2000|The Life and Times of Hank Greenberg 
+Documentary|83|98%|2003|Chavez: Inside the Coup 
+Documentary|84|98%|2007|The Life of Reilly 
+Documentary|85|95%|2006|Wordplay 
+Documentary|86|96%|2010|Exit Through The Gift Shop 
+Documentary|87|97%|2008|Burma VJ: Reporter i et Lukket Land  
+Documentary|88|96%|2004|Control Room 
+Documentary|89|96%|2007|No End in Sight 
+Documentary|90|96%|2004|Born Into Brothels 
+Documentary|91|95%|2012|The Imposter 
+Documentary|92|96%|2013|Muscle Shoals 
+Documentary|93|95%|2015|Hitchcock/Truffaut 
+Documentary|94|94%|2013|Stories We Tell 
+Documentary|95|94%|2013|Room 237 
+Documentary|96|96%|2008|Bigger, Stronger, Faster* 
+Documentary|97|97%|2010|A Film Unfinished 
+Documentary|98|97%|2009|Sweetgrass 
+Documentary|99|95%|2012|Marley 
+Documentary|100|95%|2014|Finding Vivian Maier 
+Drama|1|100%|1941|Citizen Kane 
+Drama|2|100%|1950|All About Eve 
+Drama|3|99%|1972|The Godfather 
+Drama|4|99%|1927|Metropolis 
+Drama|5|97%|1942|Casablanca 
+Drama|6|98%|2014|Boyhood 
+Drama|7|97%|1938|La Grande illusion 
+Drama|8|100%|1965|Repulsion 
+Drama|9|99%|1967|The Battle of Algiers  
+Drama|10|96%|2013|Gravity 
+Drama|11|100%|1954|Rear Window 
+Drama|12|100%|1951|Rashômon 
+Drama|13|100%|1941|The Maltese Falcon 
+Drama|14|96%|2013|12 Years a Slave 
+Drama|15|99%|2015|Selma 
+Drama|16|98%|1950|Sunset Boulevard 
+Drama|17|100%|1931|M 
+Drama|18|96%|2012|Argo 
+Drama|19|96%|2015|Spotlight 
+Drama|20|100%|1948|The Treasure of the Sierra Madre 
+Drama|21|99%|1976|Taxi Driver 
+Drama|22|100%|1959|The 400 Blows  
+Drama|23|100%|1956|Seven Samurai  
+Drama|24|98%|1949|Bicycle Thieves  
+Drama|25|98%|1951|A Streetcar Named Desire 
+Drama|26|97%|1969|Army of Shadows 
+Drama|27|100%|1957|12 Angry Men  
+Drama|28|100%|1940|Rebecca 
+Drama|29|98%|1955|The Night of the Hunter 
+Drama|30|100%|1970|The Conformist 
+Drama|31|97%|1958|Vertigo 
+Drama|32|98%|2008|The Wrestler 
+Drama|33|99%|1997|L.A. Confidential 
+Drama|34|98%|2009|The Hurt Locker 
+Drama|35|98%|2014|The Babadook 
+Drama|36|100%|1946|Open City 
+Drama|37|98%|2016|Hell or High Water 
+Drama|38|100%|1953|Tokyo Story 
+Drama|39|97%|2015|Brooklyn 
+Drama|40|100%|1953|The Wages of Fear 
+Drama|41|100%|1940|The Grapes of Wrath 
+Drama|42|100%|1971|The Last Picture Show 
+Drama|43|98%|1953|Roman Holiday 
+Drama|44|98%|1954|On the Waterfront 
+Drama|45|96%|2011|Harry Potter and the Deathly Hallows - Part 2 
+Drama|46|97%|1974|The Godfather, Part II 
+Drama|47|97%|2011|The Artist 
+Drama|48|100%|1959|Anatomy of a Murder 
+Drama|49|97%|1962|Lawrence of Arabia 
+Drama|50|97%|1975|Jaws 
+Drama|51|100%|1963|The Leopard 
+Drama|52|100%|1925|Battleship Potemkin 
+Drama|53|98%|1974|Chinatown 
+Drama|54|100%|1967|Cool Hand Luke 
+Drama|55|98%|1930|All Quiet on the Western Front 
+Drama|56|98%|2014|Mr. Turner 
+Drama|57|97%|1960|La Dolce Vita 
+Drama|58|98%|1950|The Rules of the Game 
+Drama|59|100%|1956|The Searchers 
+Drama|60|98%|2013|Before Midnight 
+Drama|61|96%|2010|The Social Network 
+Drama|62|98%|1957|Sweet Smell of Success 
+Drama|63|99%|2013|Short Term 12 
+Drama|64|97%|1979|Apocalypse Now 
+Drama|65|98%|2008|Let the Right One In 
+Drama|66|98%|1969|The Wild Bunch 
+Drama|67|98%|1942|To Be or Not to Be 
+Drama|68|98%|2016|Moonlight 
+Drama|69|98%|2013|Mud 
+Drama|70|98%|1931|City Lights 
+Drama|71|98%|1971|The French Connection 
+Drama|72|98%|2016|Love & Friendship 
+Drama|73|97%|1961|Breathless 
+Drama|74|98%|1972|The Discreet Charm Of The Bourgeoisie 
+Drama|75|98%|1968|Once Upon a Time in the West 
+Drama|76|98%|1957|Throne of Blood 
+Drama|77|99%|2014|Leviathan 
+Drama|78|96%|2010|True Grit 
+Drama|79|97%|1975|Barry Lyndon 
+Drama|80|98%|1974|Badlands 
+Drama|81|99%|2014|Gloria 
+Drama|82|98%|1972|Aguirre, the Wrath of God 
+Drama|83|98%|1962|The Manchurian Candidate 
+Drama|84|98%|1973|Mean Streets 
+Drama|85|98%|1963|8 1/2 
+Drama|86|98%|1974|The Conversation 
+Drama|87|98%|1962|Eyes Without a Face 
+Drama|88|99%|2011|A Separation 
+Drama|89|96%|2015|Son of Saul 
+Drama|90|100%|1997|The Sweet Hereafter 
+Drama|91|97%|2006|The Queen 
+Drama|92|97%|2016|Sing Street 
+Drama|93|97%|1980|Raging Bull 
+Drama|94|98%|1979|Manhattan 
+Drama|95|96%|2002|The Lord of the Rings: The Two Towers 
+Drama|96|97%|2014|Two Days, One Night 
+Drama|97|97%|2000|Chicken Run 
+Drama|98|100%|1994|Three Colors: Red 
+Drama|99|98%|1956|Forbidden Planet 
+Drama|100|97%|2015|45 Years 
+Horror|1|100%|1920|Das Cabinet des Dr. Caligari. 
+Horror|2|97%|1922|Nosferatu, a Symphony of Horror 
+Horror|3|100%|1965|Repulsion 
+Horror|4|98%|1933|King Kong 
+Horror|5|96%|1960|Psycho 
+Horror|6|100%|1935|The Bride of Frankenstein 
+Horror|7|100%|1931|Frankenstein 
+Horror|8|99%|1968|Rosemary's Baby 
+Horror|9|98%|2014|The Babadook 
+Horror|10|97%|2015|It Follows 
+Horror|11|98%|2008|Let the Right One In 
+Horror|12|94%|1932|Freaks 
+Horror|13|98%|1986|Aliens 
+Horror|14|98%|1962|Eyes Without a Face 
+Horror|15|95%|2006|Pan's Labyrinth 
+Horror|16|98%|1987|Evil Dead 2: Dead by Dawn 
+Horror|17|96%|1963|The Birds 
+Horror|18|93%|1956|Gojira 
+Horror|19|96%|1968|Night of the Living Dead 
+Horror|20|92%|2012|The Cabin in the Woods 
+Horror|21|91%|2016|The Witch 
+Horror|22|98%|1988|Spoorloos 
+Horror|23|96%|1973|Don't Look Now 
+Horror|24|96%|1961|The Innocents 
+Horror|25|95%|1991|The Silence of the Lambs 
+Horror|26|92%|2009|Drag Me to Hell 
+Horror|27|95%|1981|The Evil Dead 
+Horror|28|94%|1978|Invasion of the Body Snatchers 
+Horror|29|93%|1942|Cat People 
+Horror|30|98%|2016|Under The Shadow 
+Horror|31|93%|1976|Carrie 
+Horror|32|93%|1974|Young Frankenstein 
+Horror|33|93%|1978|Halloween 
+Horror|34|98%|2012|The Loved Ones 
+Horror|35|95%|2014|A Girl Walks Home Alone at Night 
+Horror|36|94%|1979|Nosferatu: Phantom der Nacht 
+Horror|37|91%|2016|Green Room 
+Horror|38|94%|2013|Room 237 
+Horror|39|94%|1985|Re-Animator 
+Horror|40|94%|1984|A Nightmare on Elm Street 
+Horror|41|96%|2016|Train to Busan 
+Horror|42|91%|1931|Dracula 
+Horror|43|92%|2004|Shaun of the Dead 
+Horror|44|93%|2007|The Host 
+Horror|45|96%|2016|The Love Witch 
+Horror|46|93%|1977|Suspiria 
+Horror|47|91%|1977|Eraserhead 
+Horror|48|89%|2009|Zombieland 
+Horror|49|91%|1925|Phantom Of The Opera 
+Horror|50|91%|1986|The Fly 
+Horror|51|95%|2015|We Are Still Here 
+Horror|52|91%|1962|What Ever Happened to Baby Jane? 
+Horror|53|90%|1973|The Wicker Man 
+Horror|54|88%|1980|The Shining 
+Horror|55|88%|1974|The Texas Chainsaw Massacre 
+Horror|56|90%|1986|Little Shop of Horrors 
+Horror|57|88%|2010|Let Me In 
+Horror|58|87%|2012|Frankenweenie 
+Horror|59|90%|1983|The Dead Zone 
+Horror|60|86%|1973|The Exorcist 
+Horror|61|87%|2016|Don't Breathe 
+Horror|62|86%|2013|The Conjuring 
+Horror|63|88%|1982|Poltergeist 
+Horror|64|89%|1990|Misery 
+Horror|65|86%|1999|The Blair Witch Project 
+Horror|66|87%|2003|28 Days Later 
+Horror|67|89%|1981|An American Werewolf in London 
+Horror|68|87%|2007|The Orphanage 
+Horror|69|90%|2015|Bone Tomahawk 
+Horror|70|89%|1994|Cronos 
+Horror|71|88%|1987|Near Dark 
+Horror|72|91%|2004|Donnie Darko: The Director's Cut 
+Horror|73|89%|2002|Russian Ark 
+Horror|74|86%|1986|Henry: Portrait of a Serial Killer 
+Horror|75|90%|2015|Spring 
+Horror|76|83%|2013|This Is the End 
+Horror|77|85%|2012|Chronicle 
+Horror|78|86%|1976|The Omen 
+Horror|79|85%|2006|The Descent 
+Horror|80|88%|2000|Exorcist: The Version You've Never Seen 
+Horror|81|86%|2015|Goodnight Mommy 
+Horror|82|86%|2006|Slither 
+Horror|83|89%|2001|Ginger Snaps 
+Horror|84|86%|1980|Altered States 
+Horror|85|85%|1984|Gremlins 
+Horror|86|83%|2007|Grindhouse 
+Horror|87|88%|2015|Backcountry 
+Horror|88|87%|2014|A Field in England 
+Horror|89|83%|2009|Paranormal Activity 
+Horror|90|86%|2013|We Are What We Are 
+Horror|91|86%|2009|The House of the Devil 
+Horror|92|84%|1980|Dressed to Kill 
+Horror|93|87%|2003|Dracula: Pages From a Virgin's Diary 
+Horror|94|80%|2016|The Conjuring 2 
+Horror|95|83%|2001|The Others 
+Horror|96|86%|2014|Willow Creek 
+Horror|97|86%|2010|Red Riding Trilogy 
+Horror|98|84%|2013|Berberian Sound Studio 
+Horror|99|83%|1988|They Live 
+Horror|100|85%|1999|Open Your Eyes 
+Kids & Family|1|99%|1939|The Wizard of Oz 
+Kids & Family|2|98%|2015|Inside Out 
+Kids & Family|3|98%|1982|E.T. The Extra-Terrestrial 
+Kids & Family|4|98%|1937|Snow White and the Seven Dwarfs 
+Kids & Family|5|99%|2010|Toy Story 3 
+Kids & Family|6|100%|1999|Toy Story 2 
+Kids & Family|7|98%|2009|Up 
+Kids & Family|8|99%|2003|Finding Nemo 
+Kids & Family|9|100%|1940|Pinocchio 
+Kids & Family|10|96%|2011|Harry Potter and the Deathly Hallows - Part 2 
+Kids & Family|11|100%|1995|Toy Story 
+Kids & Family|12|96%|2014|The LEGO Movie 
+Kids & Family|13|94%|1946|It's a Wonderful Life 
+Kids & Family|14|94%|2016|The Jungle Book 
+Kids & Family|15|100%|1964|Mary Poppins 
+Kids & Family|16|96%|1947|Miracle on 34th Street 
+Kids & Family|17|96%|2007|Ratatouille 
+Kids & Family|18|98%|2010|How to Train Your Dragon 
+Kids & Family|19|97%|2004|The Incredibles 
+Kids & Family|20|97%|2000|Chicken Run 
+Kids & Family|21|97%|1988|Big 
+Kids & Family|22|98%|1961|101 Dalmatians 
+Kids & Family|23|96%|1940|Fantasia 
+Kids & Family|24|98%|2015|Paddington 
+Kids & Family|25|97%|2001|Spirited Away 
+Kids & Family|26|98%|2016|Moana 
+Kids & Family|27|97%|1987|The Princess Bride 
+Kids & Family|28|96%|2001|Monsters, Inc. 
+Kids & Family|29|96%|2011|The Muppets 
+Kids & Family|30|96%|1999|The Iron Giant 
+Kids & Family|31|97%|1988|Who Framed Roger Rabbit 
+Kids & Family|32|97%|1995|Babe 
+Kids & Family|33|93%|1991|Beauty and the Beast 
+Kids & Family|34|99%|2014|Song Of The Sea 
+Kids & Family|35|96%|1998|Antz 
+Kids & Family|36|99%|2015|About Elly 
+Kids & Family|37|96%|1968|Yellow Submarine 
+Kids & Family|38|95%|2005|Wallace & Gromit: The Curse of the Were-Rabbit 
+Kids & Family|39|98%|1995|The Secret of Roan Inish 
+Kids & Family|40|94%|1993|The Nightmare Before Christmas 
+Kids & Family|41|92%|1994|The Lion King 
+Kids & Family|42|96%|1964|My Fair Lady 
+Kids & Family|43|94%|2011|Hugo 
+Kids & Family|44|96%|1999|The Straight Story 
+Kids & Family|45|92%|2009|Fantastic Mr. Fox 
+Kids & Family|46|93%|2007|Enchanted 
+Kids & Family|47|94%|1992|Aladdin 
+Kids & Family|48|92%|2014|How to Train Your Dragon 2 
+Kids & Family|49|90%|2009|Coraline 
+Kids & Family|50|91%|2004|Harry Potter and the Prisoner of Azkaban 
+Kids & Family|51|93%|1963|Jason and the Argonauts 
+Kids & Family|52|89%|2013|Frozen 
+Kids & Family|53|93%|1996|James and the Giant Peach 
+Kids & Family|54|92%|1989|The Little Mermaid 
+Kids & Family|55|93%|2001|Spy Kids 
+Kids & Family|56|92%|1998|A Bug's Life 
+Kids & Family|57|92%|2009|Ponyo 
+Kids & Family|58|92%|1999|Princess Mononoke 
+Kids & Family|59|89%|2014|Big Hero 6 
+Kids & Family|60|89%|1942|Bambi 
+Kids & Family|61|90%|1941|How Green Was My Valley 
+Kids & Family|62|92%|2011|Arthur Christmas 
+Kids & Family|63|93%|1988|My Neighbor Totoro 
+Kids & Family|64|88%|2005|Harry Potter and the Goblet of Fire 
+Kids & Family|65|93%|1996|That Thing You Do! 
+Kids & Family|66|93%|2009|L'Heure d'été 
+Kids & Family|67|89%|2010|Tangled 
+Kids & Family|68|93%|2012|First Position 
+Kids & Family|69|93%|2006|Lassie 
+Kids & Family|70|88%|2004|Shrek 2 
+Kids & Family|71|88%|2001|Shrek 
+Kids & Family|72|93%|2005|Duma 
+Kids & Family|73|89%|1983|A Christmas Story 
+Kids & Family|74|86%|1965|The Sound of Music 
+Kids & Family|75|86%|2016|Pete's Dragon 
+Kids & Family|76|87%|2008|Kung Fu Panda 
+Kids & Family|77|90%|2011|Winnie the Pooh 
+Kids & Family|78|87%|2015|The Peanuts Movie 
+Kids & Family|79|87%|2011|Rango 
+Kids & Family|80|90%|1984|The Karate Kid 
+Kids & Family|81|87%|2012|ParaNorman 
+Kids & Family|82|91%|2010|The Secret of Kells 
+Kids & Family|83|87%|2005|Howl's Moving Castle 
+Kids & Family|84|84%|2009|Harry Potter and the Half-Blood Prince 
+Kids & Family|85|89%|1985|Pee-wee's Big Adventure 
+Kids & Family|86|87%|2005|Millions 
+Kids & Family|87|86%|2012|Wreck-it Ralph 
+Kids & Family|88|88%|2003|Freaky Friday 
+Kids & Family|89|87%|1979|The Muppet Movie 
+Kids & Family|90|87%|2009|Cloudy With a Chance of Meatballs 
+Kids & Family|91|83%|2015|Cinderella 
+Kids & Family|92|89%|2014|Bears 
+Kids & Family|93|86%|1989|Field of Dreams 
+Kids & Family|94|83%|2005|Charlie and the Chocolate Factory 
+Kids & Family|95|86%|1998|Mulan 
+Kids & Family|96|85%|2007|Bridge to Terabithia 
+Kids & Family|97|84%|2009|The Princess and the Frog 
+Kids & Family|98|85%|2000|The Emperor's New Groove 
+Kids & Family|99|84%|2003|Elf 
+Kids & Family|100|83%|2005|Tim Burton's Corpse Bride 
+Musical & Performing Arts|1|99%|1939|The Wizard of Oz 
+Musical & Performing Arts|2|100%|1952|Singin' in the Rain 
+Musical & Performing Arts|3|98%|1964|A Hard Day's Night 
+Musical & Performing Arts|4|100%|1940|Pinocchio 
+Musical & Performing Arts|5|95%|1951|An American in Paris 
+Musical & Performing Arts|6|96%|1948|The Red Shoes 
+Musical & Performing Arts|7|100%|1964|Mary Poppins 
+Musical & Performing Arts|8|98%|1953|Gentlemen Prefer Blondes 
+Musical & Performing Arts|9|97%|2016|Sing Street 
+Musical & Performing Arts|10|96%|1940|Fantasia 
+Musical & Performing Arts|11|99%|2013|20 Feet From Stardom 
+Musical & Performing Arts|12|98%|1978|The Last Waltz 
+Musical & Performing Arts|13|96%|1959|Some Like It Hot 
+Musical & Performing Arts|14|95%|1984|Amadeus 
+Musical & Performing Arts|15|95%|2015|Amy 
+Musical & Performing Arts|16|98%|2009|Anvil! The Story of Anvil 
+Musical & Performing Arts|17|97%|2007|Once 
+Musical & Performing Arts|18|93%|1991|Beauty and the Beast 
+Musical & Performing Arts|19|100%|2010|Waste Land 
+Musical & Performing Arts|20|94%|1961|West Side Story 
+Musical & Performing Arts|21|97%|2014|We Are the Best! 
+Musical & Performing Arts|22|100%|2009|Afghan Star 
+Musical & Performing Arts|23|98%|1988|Hairspray 
+Musical & Performing Arts|24|100%|2013|Sound City 
+Musical & Performing Arts|25|96%|1968|Yellow Submarine 
+Musical & Performing Arts|26|100%|2011|Everyday Sunshine: The Story of Fishbone 
+Musical & Performing Arts|27|92%|1994|The Lion King 
+Musical & Performing Arts|28|96%|1964|My Fair Lady 
+Musical & Performing Arts|29|99%|2002|Rivers and Tides: Andy Goldsworthy Working With Time 
+Musical & Performing Arts|30|99%|2011|Bill Cunningham New York 
+Musical & Performing Arts|31|96%|1993|What's Love Got To Do With It? 
+Musical & Performing Arts|32|94%|1975|Nashville 
+Musical & Performing Arts|33|98%|2012|Beware Of Mr. Baker 
+Musical & Performing Arts|34|98%|2004|The Umbrellas of Cherbourg 
+Musical & Performing Arts|35|95%|2006|Wordplay 
+Musical & Performing Arts|36|96%|2010|Exit Through The Gift Shop 
+Musical & Performing Arts|37|97%|2016|La La Land 
+Musical & Performing Arts|38|94%|1992|Aladdin 
+Musical & Performing Arts|39|96%|2004|Born Into Brothels 
+Musical & Performing Arts|40|96%|2013|Muscle Shoals 
+Musical & Performing Arts|41|95%|2012|Marley 
+Musical & Performing Arts|42|91%|2007|Hairspray 
+Musical & Performing Arts|43|94%|2012|Searching for Sugar Man 
+Musical & Performing Arts|44|96%|2008|Les Plages d'Agnès 
+Musical & Performing Arts|45|91%|2015|Love & Mercy 
+Musical & Performing Arts|46|96%|2003|Festival Express 
+Musical & Performing Arts|47|95%|2014|20,000 Days on Earth 
+Musical & Performing Arts|48|95%|1995|Crumb 
+Musical & Performing Arts|49|95%|1997|The Full Monty 
+Musical & Performing Arts|50|95%|2011|Pina 
+Musical & Performing Arts|51|92%|1989|The Little Mermaid 
+Musical & Performing Arts|52|91%|2009|Crazy Heart 
+Musical & Performing Arts|53|95%|2006|49 Up 
+Musical & Performing Arts|54|95%|2001|Lagaan: Once Upon a Time in India 
+Musical & Performing Arts|55|94%|2003|Lost in La Mancha 
+Musical & Performing Arts|56|94%|2007|My Kid Could Paint That 
+Musical & Performing Arts|57|95%|2004|End of the Century: The Story of the Ramones 
+Musical & Performing Arts|58|94%|2015|The Wrecking Crew 
+Musical & Performing Arts|59|95%|2012|Marina Abramovic: The Artist Is Present 
+Musical & Performing Arts|60|92%|2006|Dave Chappelle's Block Party 
+Musical & Performing Arts|61|95%|2000|The Filth and the Fury 
+Musical & Performing Arts|62|91%|2013|The Sapphires 
+Musical & Performing Arts|63|95%|2003|Los Angeles Plays Itself 
+Musical & Performing Arts|64|93%|2007|U2 3D 
+Musical & Performing Arts|65|89%|2010|Tangled 
+Musical & Performing Arts|66|94%|2013|A Band Called Death 
+Musical & Performing Arts|67|92%|2001|Hedwig and the Angry Inch 
+Musical & Performing Arts|68|93%|2004|My Architect 
+Musical & Performing Arts|69|87%|2015|Straight Outta Compton 
+Musical & Performing Arts|70|92%|2009|Every Little Step 
+Musical & Performing Arts|71|90%|1986|Little Shop of Horrors 
+Musical & Performing Arts|72|92%|2002|Standing in the Shadows of Motown 
+Musical & Performing Arts|73|86%|1965|The Sound of Music 
+Musical & Performing Arts|74|93%|2002|Scratch 
+Musical & Performing Arts|75|88%|1986|Sid and Nancy 
+Musical & Performing Arts|76|88%|1974|F for Fake 
+Musical & Performing Arts|77|86%|2007|Sweeney Todd: The Demon Barber of Fleet Street 
+Musical & Performing Arts|78|91%|1996|Shine 
+Musical & Performing Arts|79|86%|2002|Chicago 
+Musical & Performing Arts|80|90%|2006|Neil Young: Heart of Gold 
+Musical & Performing Arts|81|87%|1970|Five Easy Pieces 
+Musical & Performing Arts|82|91%|2014|Mistaken for Strangers 
+Musical & Performing Arts|83|89%|1999|Topsy-Turvy 
+Musical & Performing Arts|84|91%|1999|Buena Vista Social Club 
+Musical & Performing Arts|85|91%|2005|Ballets Russes 
+Musical & Performing Arts|86|89%|2006|The Devil and Daniel Johnston 
+Musical & Performing Arts|87|91%|2013|Caesar Must Die 
+Musical & Performing Arts|88|89%|2004|Metallica: Some Kind of Monster 
+Musical & Performing Arts|89|88%|2016|Born To Be Blue 
+Musical & Performing Arts|90|90%|2004|Dig! 
+Musical & Performing Arts|91|87%|1979|The Muppet Movie 
+Musical & Performing Arts|92|87%|2008|Shine a Light 
+Musical & Performing Arts|93|90%|2011|Beats Rhymes & Life: The Travels of a Tribe Called Quest 
+Musical & Performing Arts|94|88%|2006|Who Killed the Electric Car? 
+Musical & Performing Arts|95|90%|2005|New York Doll 
+Musical & Performing Arts|96|88%|1991|The Commitments 
+Musical & Performing Arts|97|88%|2007|Young@Heart 
+Musical & Performing Arts|98|89%|2004|Going Upriver: The Long War of John Kerry 
+Musical & Performing Arts|99|86%|1977|Saturday Night Fever 
+Musical & Performing Arts|100|89%|2007|Joe Strummer: The Future Is Unwritten 
+Mystery & Suspense|1|100%|1949|The Third Man 
+Mystery & Suspense|2|100%|1941|Citizen Kane 
+Mystery & Suspense|3|100%|1920|Das Cabinet des Dr. Caligari. 
+Mystery & Suspense|4|100%|1944|Laura 
+Mystery & Suspense|5|100%|1959|North by Northwest 
+Mystery & Suspense|6|100%|1965|Repulsion 
+Mystery & Suspense|7|100%|1954|Rear Window 
+Mystery & Suspense|8|100%|1951|Rashômon 
+Mystery & Suspense|9|100%|1941|The Maltese Falcon 
+Mystery & Suspense|10|96%|1960|Psycho 
+Mystery & Suspense|11|100%|1931|M 
+Mystery & Suspense|12|96%|2012|Argo 
+Mystery & Suspense|13|96%|2015|Spotlight 
+Mystery & Suspense|14|99%|1976|Taxi Driver 
+Mystery & Suspense|15|97%|1979|Alien 
+Mystery & Suspense|16|100%|1940|Rebecca 
+Mystery & Suspense|17|98%|1955|The Night of the Hunter 
+Mystery & Suspense|18|99%|1968|Rosemary's Baby 
+Mystery & Suspense|19|97%|1958|Vertigo 
+Mystery & Suspense|20|96%|1958|Touch of Evil 
+Mystery & Suspense|21|99%|1997|L.A. Confidential 
+Mystery & Suspense|22|98%|1935|The 39 Steps 
+Mystery & Suspense|23|98%|2014|The Babadook 
+Mystery & Suspense|24|93%|2012|Skyfall 
+Mystery & Suspense|25|100%|1953|The Wages of Fear 
+Mystery & Suspense|26|96%|1952|High Noon 
+Mystery & Suspense|27|96%|2011|Harry Potter and the Deathly Hallows - Part 2 
+Mystery & Suspense|28|97%|1974|The Godfather, Part II 
+Mystery & Suspense|29|100%|1959|Anatomy of a Murder 
+Mystery & Suspense|30|97%|1975|Jaws 
+Mystery & Suspense|31|98%|1974|Chinatown 
+Mystery & Suspense|32|98%|1938|The Lady Vanishes 
+Mystery & Suspense|33|93%|1977|Star Wars: Episode IV - A New Hope 
+Mystery & Suspense|34|98%|1951|Strangers on a Train 
+Mystery & Suspense|35|96%|1946|The Big Sleep 
+Mystery & Suspense|36|95%|2014|Nightcrawler 
+Mystery & Suspense|37|98%|1956|Invasion of the Body Snatchers 
+Mystery & Suspense|38|94%|1932|Freaks 
+Mystery & Suspense|39|98%|1974|Badlands 
+Mystery & Suspense|40|98%|1962|The Manchurian Candidate 
+Mystery & Suspense|41|95%|2006|Casino Royale 
+Mystery & Suspense|42|98%|1974|The Conversation 
+Mystery & Suspense|43|98%|1962|Eyes Without a Face 
+Mystery & Suspense|44|93%|2016|Arrival 
+Mystery & Suspense|45|94%|1980|Star Wars: Episode V - The Empire Strikes Back 
+Mystery & Suspense|46|98%|1956|Forbidden Planet 
+Mystery & Suspense|47|98%|1961|101 Dalmatians 
+Mystery & Suspense|48|95%|1970|Le Cercle Rouge 
+Mystery & Suspense|49|94%|2015|Sicario 
+Mystery & Suspense|50|100%|1993|Three Colors: Blue 
+Mystery & Suspense|51|96%|1960|Peeping Tom 
+Mystery & Suspense|52|94%|2013|All Is Lost 
+Mystery & Suspense|53|93%|2012|Looper 
+Mystery & Suspense|54|96%|1963|The Birds 
+Mystery & Suspense|55|98%|1927|Sunrise: A Song of Two Humans 
+Mystery & Suspense|56|97%|1988|Who Framed Roger Rabbit 
+Mystery & Suspense|57|93%|2007|No Country for Old Men 
+Mystery & Suspense|58|98%|1982|Mad Max 2: The Road Warrior 
+Mystery & Suspense|59|93%|1993|Jurassic Park 
+Mystery & Suspense|60|96%|1964|Goldfinger 
+Mystery & Suspense|61|95%|2016|Eye In The Sky 
+Mystery & Suspense|62|93%|2015|Ex Machina 
+Mystery & Suspense|63|94%|1984|Blood Simple 
+Mystery & Suspense|64|98%|1981|Diva 
+Mystery & Suspense|65|93%|2007|The Bourne Ultimatum 
+Mystery & Suspense|66|96%|1977|Close Encounters of the Third Kind 
+Mystery & Suspense|67|92%|2012|The Cabin in the Woods 
+Mystery & Suspense|68|98%|1988|Spoorloos 
+Mystery & Suspense|69|96%|1973|Don't Look Now 
+Mystery & Suspense|70|96%|1962|Dr. No 
+Mystery & Suspense|71|96%|1964|From Russia With Love 
+Mystery & Suspense|72|97%|1992|The Crying Game 
+Mystery & Suspense|73|96%|1993|The Fugitive 
+Mystery & Suspense|74|100%|2012|Wake in Fright 
+Mystery & Suspense|75|91%|2015|Bridge of Spies 
+Mystery & Suspense|76|95%|1991|The Silence of the Lambs 
+Mystery & Suspense|77|96%|2014|Blue Ruin 
+Mystery & Suspense|78|94%|2011|Mission: Impossible Ghost Protocol 
+Mystery & Suspense|79|93%|1958|Elevator to the Gallows 
+Mystery & Suspense|80|98%|1992|One False Move 
+Mystery & Suspense|81|95%|1955|To Catch a Thief 
+Mystery & Suspense|82|88%|2014|Gone Girl 
+Mystery & Suspense|83|90%|2016|10 Cloverfield Lane 
+Mystery & Suspense|84|94%|2010|The Town 
+Mystery & Suspense|85|92%|2006|Children of Men 
+Mystery & Suspense|86|91%|2006|The Departed 
+Mystery & Suspense|87|94%|2011|Hugo 
+Mystery & Suspense|88|92%|2009|Drag Me to Hell 
+Mystery & Suspense|89|94%|1986|Blue Velvet 
+Mystery & Suspense|90|95%|2015|Wild Tales 
+Mystery & Suspense|91|98%|2016|The Wailing 
+Mystery & Suspense|92|95%|1967|In the Heat of the Night 
+Mystery & Suspense|93|90%|2014|The Imitation Game 
+Mystery & Suspense|94|94%|1978|Invasion of the Body Snatchers 
+Mystery & Suspense|95|95%|1993|In the Line of Fire 
+Mystery & Suspense|96|98%|2016|Under The Shadow 
+Mystery & Suspense|97|95%|1971|Dirty Harry 
+Mystery & Suspense|98|94%|2007|Gone Baby Gone 
+Mystery & Suspense|99|98%|2000|Croupier 
+Mystery & Suspense|100|92%|2011|Source Code 
+Romance|1|98%|1934|It Happened One Night 
+Romance|2|100%|1952|Singin' in the Rain 
+Romance|3|97%|1942|Casablanca 
+Romance|4|100%|1938|The Adventures of Robin Hood 
+Romance|5|100%|1940|The Philadelphia Story 
+Romance|6|94%|1939|Gone With the Wind 
+Romance|7|97%|1958|Vertigo 
+Romance|8|98%|1953|Roman Holiday 
+Romance|9|98%|1954|On the Waterfront 
+Romance|10|97%|2011|The Artist 
+Romance|11|98%|1977|Annie Hall 
+Romance|12|95%|1951|An American in Paris 
+Romance|13|98%|2013|Before Midnight 
+Romance|14|96%|1948|The Red Shoes 
+Romance|15|98%|1931|City Lights 
+Romance|16|95%|2013|Her 
+Romance|17|96%|1947|Miracle on 34th Street 
+Romance|18|95%|1946|Beauty and The Beast 
+Romance|19|98%|1953|Gentlemen Prefer Blondes 
+Romance|20|94%|2015|Carol 
+Romance|21|96%|1946|The Best Years of Our Lives 
+Romance|22|98%|1979|Manhattan 
+Romance|23|100%|1995|Before Sunrise 
+Romance|24|100%|1993|Three Colors: Blue 
+Romance|25|95%|1938|Bringing Up Baby 
+Romance|26|97%|1987|The Princess Bride 
+Romance|27|98%|1961|The Hustler 
+Romance|28|96%|2004|Sideways 
+Romance|29|96%|2013|Enough Said 
+Romance|30|97%|1988|Bull Durham 
+Romance|31|92%|2008|Slumdog Millionaire 
+Romance|32|98%|1927|Sunrise: A Song of Two Humans 
+Romance|33|93%|1991|Beauty and the Beast 
+Romance|34|97%|2001|Crouching Tiger, Hidden Dragon 
+Romance|35|98%|1987|Wings of Desire 
+Romance|36|98%|1995|Sense and Sensibility 
+Romance|37|100%|2016|Only Yesterday 
+Romance|38|94%|1961|West Side Story 
+Romance|39|95%|2003|Lost In Translation 
+Romance|40|97%|1992|The Crying Game 
+Romance|41|93%|1960|The Apartment 
+Romance|42|98%|1989|Say Anything... 
+Romance|43|96%|1993|Groundhog Day 
+Romance|44|93%|1958|Elevator to the Gallows 
+Romance|45|95%|1955|To Catch a Thief 
+Romance|46|88%|1997|Titanic 
+Romance|47|94%|2010|The Town 
+Romance|48|92%|1998|Shakespeare in Love 
+Romance|49|93%|1942|Cat People 
+Romance|50|95%|2004|Before Sunset 
+Romance|51|93%|2004|Eternal Sunshine Of The Spotless Mind 
+Romance|52|91%|2009|Up in the Air 
+Romance|53|96%|2014|The Lunchbox 
+Romance|54|92%|1953|From Here to Eternity 
+Romance|55|95%|1994|Four Weddings and a Funeral 
+Romance|56|98%|2014|A Summer's Tale 
+Romance|57|93%|2011|Midnight in Paris 
+Romance|58|94%|2002|About a Boy 
+Romance|59|96%|1996|Big Night 
+Romance|60|93%|2007|Enchanted 
+Romance|61|95%|2014|A Girl Walks Home Alone at Night 
+Romance|62|98%|2004|The Umbrellas of Cherbourg 
+Romance|63|93%|2013|The Spectacular Now 
+Romance|64|94%|2016|The Handmaiden 
+Romance|65|91%|2004|Million Dollar Baby 
+Romance|66|95%|1996|Hamlet 
+Romance|67|96%|2009|Revanche 
+Romance|68|95%|2002|Monsoon Wedding 
+Romance|69|90%|2007|Knocked Up 
+Romance|70|93%|1986|Hannah and Her Sisters 
+Romance|71|93%|1998|Out of Sight 
+Romance|72|94%|1993|Dave 
+Romance|73|92%|1989|The Little Mermaid 
+Romance|74|91%|2009|Crazy Heart 
+Romance|75|96%|2002|Elsker Dig For Evigt 
+Romance|76|94%|1997|Mrs. Brown 
+Romance|77|93%|1927|The General 
+Romance|78|89%|1967|The Graduate 
+Romance|79|95%|2003|The Best of Youth 
+Romance|80|92%|1987|Moonstruck 
+Romance|81|92%|2001|Y Tu Mama Tambien 
+Romance|82|90%|2005|Kung Fu Hustle 
+Romance|83|93%|2015|The Duke Of Burgundy 
+Romance|84|94%|2001|Last Resort 
+Romance|85|93%|1994|Eat Drink Man Woman 
+Romance|86|90%|1988|Cinema Paradiso 
+Romance|87|93%|2015|I'll See You in My Dreams 
+Romance|88|93%|1996|Lone Star 
+Romance|89|92%|1992|Howards End 
+Romance|90|92%|2002|Talk to Her 
+Romance|91|92%|1994|Heavenly Creatures 
+Romance|92|87%|2005|Brokeback Mountain 
+Romance|93|94%|2010|Samson and Delilah 
+Romance|94|89%|2001|Amélie 
+Romance|95|89%|2014|Obvious Child 
+Romance|96|93%|2009|Etz Limon 
+Romance|97|91%|2010|The Secret in Their Eyes 
+Romance|98|89%|2007|Waitress 
+Romance|99|91%|1998|Ever After: A Cinderella Story 
+Romance|100|88%|2010|Let Me In 
+Science Fiction & Fantasy|1|99%|1939|The Wizard of Oz 
+Science Fiction & Fantasy|2|97%|2015|Mad Max: Fury Road 
+Science Fiction & Fantasy|3|99%|1927|Metropolis 
+Science Fiction & Fantasy|4|98%|1982|E.T. The Extra-Terrestrial 
+Science Fiction & Fantasy|5|98%|1937|Snow White and the Seven Dwarfs 
+Science Fiction & Fantasy|6|97%|1922|Nosferatu, a Symphony of Horror 
+Science Fiction & Fantasy|7|96%|2013|Gravity 
+Science Fiction & Fantasy|8|99%|2010|Toy Story 3 
+Science Fiction & Fantasy|9|100%|1999|Toy Story 2 
+Science Fiction & Fantasy|10|100%|1935|The Bride of Frankenstein 
+Science Fiction & Fantasy|11|97%|1979|Alien 
+Science Fiction & Fantasy|12|99%|1964|Dr. Strangelove Or How I Learned to Stop Worrying and Love the Bomb 
+Science Fiction & Fantasy|13|100%|1931|Frankenstein 
+Science Fiction & Fantasy|14|94%|2008|The Dark Knight 
+Science Fiction & Fantasy|15|92%|2015|Star Wars: Episode VII - The Force Awakens 
+Science Fiction & Fantasy|16|95%|2009|Star Trek 
+Science Fiction & Fantasy|17|100%|1940|Pinocchio 
+Science Fiction & Fantasy|18|96%|2011|Harry Potter and the Deathly Hallows - Part 2 
+Science Fiction & Fantasy|19|100%|1995|Toy Story 
+Science Fiction & Fantasy|20|96%|2008|WALL-E 
+Science Fiction & Fantasy|21|93%|1977|Star Wars: Episode IV - A New Hope 
+Science Fiction & Fantasy|22|94%|1946|It's a Wonderful Life 
+Science Fiction & Fantasy|23|100%|1984|The Terminator 
+Science Fiction & Fantasy|24|100%|1964|Mary Poppins 
+Science Fiction & Fantasy|25|95%|2013|Her 
+Science Fiction & Fantasy|26|98%|1956|Invasion of the Body Snatchers 
+Science Fiction & Fantasy|27|94%|2008|Iron Man 
+Science Fiction & Fantasy|28|96%|1947|Miracle on 34th Street 
+Science Fiction & Fantasy|29|95%|1946|Beauty and The Beast 
+Science Fiction & Fantasy|30|98%|1972|The Discreet Charm Of The Bourgeoisie 
+Science Fiction & Fantasy|31|92%|2015|The Martian 
+Science Fiction & Fantasy|32|98%|1986|Aliens 
+Science Fiction & Fantasy|33|92%|2012|Marvel's The Avengers 
+Science Fiction & Fantasy|34|98%|2010|How to Train Your Dragon 
+Science Fiction & Fantasy|35|97%|2016|Kubo and the Two Strings 
+Science Fiction & Fantasy|36|98%|1963|8 1/2 
+Science Fiction & Fantasy|37|95%|2014|Snowpiercer 
+Science Fiction & Fantasy|38|93%|2016|Arrival 
+Science Fiction & Fantasy|39|94%|1980|Star Wars: Episode V - The Empire Strikes Back 
+Science Fiction & Fantasy|40|90%|2016|Captain America: Civil War 
+Science Fiction & Fantasy|41|96%|2002|The Lord of the Rings: The Two Towers 
+Science Fiction & Fantasy|42|98%|1956|Forbidden Planet 
+Science Fiction & Fantasy|43|97%|1988|Big 
+Science Fiction & Fantasy|44|97%|1984|Ghostbusters 
+Science Fiction & Fantasy|45|96%|1940|Fantasia 
+Science Fiction & Fantasy|46|97%|2001|Spirited Away 
+Science Fiction & Fantasy|47|94%|1951|The Day the Earth Stood Still 
+Science Fiction & Fantasy|48|95%|2006|Pan's Labyrinth 
+Science Fiction & Fantasy|49|95%|2003|The Lord of the Rings: The Return of the King 
+Science Fiction & Fantasy|50|91%|2014|Live Die Repeat: Edge of Tomorrow 
+Science Fiction & Fantasy|51|91%|2014|Guardians of the Galaxy 
+Science Fiction & Fantasy|52|96%|1985|Back to the Future 
+Science Fiction & Fantasy|53|91%|2014|X-Men: Days of Future Past 
+Science Fiction & Fantasy|54|94%|1968|2001: A Space Odyssey 
+Science Fiction & Fantasy|55|97%|1987|The Princess Bride 
+Science Fiction & Fantasy|56|96%|2001|Monsters, Inc. 
+Science Fiction & Fantasy|57|96%|1999|The Iron Giant 
+Science Fiction & Fantasy|58|93%|2012|Looper 
+Science Fiction & Fantasy|59|98%|2014|Jodorowsky's Dune 
+Science Fiction & Fantasy|60|98%|1982|Mad Max 2: The Road Warrior 
+Science Fiction & Fantasy|61|93%|1956|Gojira 
+Science Fiction & Fantasy|62|93%|1993|Jurassic Park 
+Science Fiction & Fantasy|63|97%|1995|Babe 
+Science Fiction & Fantasy|64|93%|1991|Beauty and the Beast 
+Science Fiction & Fantasy|65|93%|2015|Ex Machina 
+Science Fiction & Fantasy|66|98%|1987|Wings of Desire 
+Science Fiction & Fantasy|67|99%|2014|Song Of The Sea 
+Science Fiction & Fantasy|68|98%|1985|Brazil 
+Science Fiction & Fantasy|69|96%|1977|Close Encounters of the Third Kind 
+Science Fiction & Fantasy|70|98%|1984|Repo Man 
+Science Fiction & Fantasy|71|96%|1976|Solaris 
+Science Fiction & Fantasy|72|90%|2014|Dawn Of The Planet Of The Apes 
+Science Fiction & Fantasy|73|96%|1993|Groundhog Day 
+Science Fiction & Fantasy|74|96%|1998|Antz 
+Science Fiction & Fantasy|75|96%|1968|Yellow Submarine 
+Science Fiction & Fantasy|76|98%|1995|The Secret of Roan Inish 
+Science Fiction & Fantasy|77|94%|1993|The Nightmare Before Christmas 
+Science Fiction & Fantasy|78|90%|2016|Doctor Strange 
+Science Fiction & Fantasy|79|93%|2004|Spider-Man 2 
+Science Fiction & Fantasy|80|92%|2006|Children of Men 
+Science Fiction & Fantasy|81|95%|1981|The Evil Dead 
+Science Fiction & Fantasy|82|89%|1982|Blade Runner 
+Science Fiction & Fantasy|83|94%|1978|Invasion of the Body Snatchers 
+Science Fiction & Fantasy|84|95%|2012|The Secret World of Arrietty 
+Science Fiction & Fantasy|85|93%|2004|Eternal Sunshine Of The Spotless Mind 
+Science Fiction & Fantasy|86|95%|1961|L'année dernière à Marienbad 
+Science Fiction & Fantasy|87|92%|1957|The Seventh Seal  
+Science Fiction & Fantasy|88|97%|2014|Ernest & Célestine 
+Science Fiction & Fantasy|89|90%|2009|District 9 
+Science Fiction & Fantasy|90|92%|2011|Source Code 
+Science Fiction & Fantasy|91|89%|2014|Captain America: The Winter Soldier 
+Science Fiction & Fantasy|92|93%|1974|Young Frankenstein 
+Science Fiction & Fantasy|93|98%|2010|Marwencol 
+Science Fiction & Fantasy|94|89%|2013|The Hunger Games: Catching Fire 
+Science Fiction & Fantasy|95|93%|1999|Being John Malkovich 
+Science Fiction & Fantasy|96|91%|2001|The Lord of the Rings: The Fellowship of the Ring 
+Science Fiction & Fantasy|97|93%|1991|Terminator 2: Judgment Day 
+Science Fiction & Fantasy|98|92%|2014|How to Train Your Dragon 2 
+Science Fiction & Fantasy|99|90%|2009|Coraline 
+Science Fiction & Fantasy|100|91%|2004|Harry Potter and the Prisoner of Azkaban 
+Special Interests|1|100%|1935|The Bride of Frankenstein 
+Special Interests|2|100%|1931|Frankenstein 
+Special Interests|3|100%|2008|Man on Wire 
+Special Interests|4|97%|2014|Life Itself 
+Special Interests|5|95%|2013|Her 
+Special Interests|6|96%|1947|Miracle on 34th Street 
+Special Interests|7|98%|1972|The Discreet Charm Of The Bourgeoisie 
+Special Interests|8|100%|2007|Taxi to the Dark Side 
+Special Interests|9|98%|2005|Murderball 
+Special Interests|10|98%|2013|Blackfish 
+Special Interests|11|98%|2014|Jodorowsky's Dune 
+Special Interests|12|95%|2015|Amy 
+Special Interests|13|98%|2010|Inside Job 
+Special Interests|14|99%|2012|Jiro Dreams of Sushi 
+Special Interests|15|100%|2013|The Square 
+Special Interests|16|98%|2003|The Fog of War: Eleven Lessons from the Life of Robert S. McNamara 
+Special Interests|17|98%|2002|Spellbound 
+Special Interests|18|100%|1999|Mr. Death: The Rise and Fall of Fred A. Leuchter, Jr. 
+Special Interests|19|100%|2009|Afghan Star 
+Special Interests|20|95%|2014|Love Is Strange 
+Special Interests|21|98%|1994|Hoop Dreams 
+Special Interests|22|99%|2011|The Interrupters 
+Special Interests|23|96%|2008|Waltz with Bashir 
+Special Interests|24|96%|1993|Groundhog Day 
+Special Interests|25|99%|2012|How to Survive a Plague 
+Special Interests|26|100%|2010|Last Train Home 
+Special Interests|27|97%|2003|Capturing the Friedmans 
+Special Interests|28|96%|2013|The Act Of Killing 
+Special Interests|29|99%|2012|The Invisible War 
+Special Interests|30|98%|2012|This Is Not a Film 
+Special Interests|31|99%|2003|Bus 174 
+Special Interests|32|97%|2005|Enron: The Smartest Guys in the Room 
+Special Interests|33|96%|2002|Bowling for Columbine 
+Special Interests|34|98%|2014|The Overnighters 
+Special Interests|35|98%|2014|Elaine Stritch: Shoot Me 
+Special Interests|36|98%|2013|56 Up 
+Special Interests|37|97%|2007|The King of Kong: A Fistful of Quarters 
+Special Interests|38|98%|2006|The War Tapes 
+Special Interests|39|95%|1961|L'année dernière à Marienbad 
+Special Interests|40|96%|2011|Cave of Forgotten Dreams 
+Special Interests|41|96%|2003|Winged Migration 
+Special Interests|42|97%|2012|Ai Weiwei: Never Sorry 
+Special Interests|43|98%|2012|Mea Maxima Culpa: Silence In The House Of God 
+Special Interests|44|98%|2007|The Devil Came on Horseback 
+Special Interests|45|98%|2006|Blindsight 
+Special Interests|46|96%|2012|Undefeated 
+Special Interests|47|98%|2007|For the Bible Tells Me So 
+Special Interests|48|98%|2013|Call Me Kuchu 
+Special Interests|49|96%|2009|Food, Inc. 
+Special Interests|50|98%|2013|Let The Fire Burn 
+Special Interests|51|96%|2010|Restrepo 
+Special Interests|52|98%|2007|Surfwise 
+Special Interests|53|97%|2000|The Life and Times of Hank Greenberg 
+Special Interests|54|98%|2003|Chavez: Inside the Coup 
+Special Interests|55|95%|2006|Wordplay 
+Special Interests|56|96%|2010|Exit Through The Gift Shop 
+Special Interests|57|97%|2008|Burma VJ: Reporter i et Lukket Land 
+Special Interests|58|96%|2004|Control Room 
+Special Interests|59|96%|2007|No End in Sight 
+Special Interests|60|96%|2004|Born Into Brothels 
+Special Interests|61|95%|2012|The Imposter 
+Special Interests|62|96%|2013|Muscle Shoals 
+Special Interests|63|96%|2008|Bigger, Stronger, Faster* 
+Special Interests|64|97%|2010|A Film Unfinished 
+Special Interests|65|97%|2009|Sweetgrass 
+Special Interests|66|95%|2012|Marley 
+Special Interests|67|95%|2014|Finding Vivian Maier 
+Special Interests|68|96%|2008|Trouble the Water 
+Special Interests|69|96%|2013|Cutie And The Boxer 
+Special Interests|70|93%|2006|An Inconvenient Truth 
+Special Interests|71|97%|2003|To Be and to Have 
+Special Interests|72|96%|2012|Chasing Ice 
+Special Interests|73|91%|2007|Sicko 
+Special Interests|74|95%|2005|The Wild Parrots of Telegraph Hill 
+Special Interests|75|95%|2014|20,000 Days on Earth 
+Special Interests|76|95%|2015|The Salt of the Earth 
+Special Interests|77|93%|2004|Super Size Me 
+Special Interests|78|92%|2004|Shaun of the Dead 
+Special Interests|79|95%|1995|Crumb 
+Special Interests|80|94%|2012|The Queen of Versailles 
+Special Interests|81|96%|2013|I Am Divine 
+Special Interests|82|96%|2012|Brooklyn Castle 
+Special Interests|83|96%|2006|Deep Water 
+Special Interests|84|96%|2014|Manakamana 
+Special Interests|85|96%|2014|The Last of the Unjust 
+Special Interests|86|96%|2007|Up the Yangtze 
+Special Interests|87|95%|2009|Good Hair 
+Special Interests|88|91%|1977|Eraserhead 
+Special Interests|89|95%|2014|National Gallery 
+Special Interests|90|96%|2011|The Arbor 
+Special Interests|91|95%|2014|Last Days in Vietnam 
+Special Interests|92|96%|2004|Plagues & Pleasures on the Salton Sea 
+Special Interests|93|96%|2002|Promises 
+Special Interests|94|95%|2006|49 Up 
+Special Interests|95|96%|2004|Lost Boys of Sudan 
+Special Interests|96|95%|2001|The Endurance 
+Special Interests|97|93%|2004|Touching the Void 
+Special Interests|98|93%|2013|The Gatekeepers 
+Special Interests|99|95%|2009|Crude 
+Special Interests|100|94%|2004|The Story of the Weeping Camel 
